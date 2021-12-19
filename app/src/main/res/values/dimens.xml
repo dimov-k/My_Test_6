@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_item_padding">16dp</dimen>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="zero">0dp</dimen>
+    <item name="button_width_percent" type="dimen" format="float">0.42</item>
+</resources>
